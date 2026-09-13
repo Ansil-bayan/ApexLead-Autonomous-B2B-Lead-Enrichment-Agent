@@ -1,0 +1,122 @@
+[
+  {
+    "domain": "postman.com",
+    "company_name": "Postman",
+    "company_overview": "Postman is an AI-native API platform that enables users to develop, test, manage, and distribute APIs and services. Designed for enterprise scale, the platform simplifies and automates API lifecycle management for engineering teams.",
+    "target_audience_icp": "Software engineers, API developers, and enterprise development teams building and managing web services.",
+    "contact_points": [
+      "last@postman.com",
+      "info@postman.com",
+      "help@postman.com",
+      "1 804 110 6902",
+      "(888) 616-1665",
+      "https://support.postman.com/hc/en-us",
+      "https://www.postman.com/contact-sales/",
+      "https://www.postman.com/company/contact-sales",
+      "https://www.postman.com/company/contact-us/",
+      "https://postman.com/company/contact-us"
+    ],
+    "key_leadership": [
+      {
+        "name": "Abhinav Asthana",
+        "role": "Founder / Executive",
+        "linkedin_url": "https://www.linkedin.com/in/abhinavasthana"
+      },
+      {
+        "name": "Ankit Sobti",
+        "role": "Founder / Executive",
+        "linkedin_url": "https://www.linkedin.com/in/ankit-sobti"
+      }
+    ],
+    "data_confidence_score": 0.85,
+    "sources_crawled": [
+      "https://postman.com"
+    ],
+    "cost_metrics": {
+      "prompt_tokens": 787,
+      "completion_tokens": 143,
+      "total_tokens": 930,
+      "estimated_cost_usd": 0.000102
+    },
+    "external_search_used": true,
+    "error": null
+  },
+  {
+    "domain": "supabase.com",
+    "company_name": "Supabase",
+    "company_overview": "Supabase is an open-source backend-as-a-service platform built around Postgres databases. It provides developers with integrated authentication, data APIs, edge functions, storage, real-time data synchronization, and vector embeddings to quickly build and scale applications.",
+    "target_audience_icp": "Developers, software engineers, and startups building web and mobile applications requiring scalable backend infrastructure, authentication, storage, and database management.",
+    "contact_points": [
+      "support@supabase.com",
+      "security@supabase.com",
+      "legal@supabase.com",
+      "abuse@supabase.com",
+      "support@supabase.io",
+      "https://supabase.com/support-policy",
+      "https://supabase.com/support",
+      "https://contactout.com/company/Supabase-24607",
+      "https://supabase.com/contact-us",
+      "https://supabase.com/contact/sales"
+    ],
+    "key_leadership": [
+      {
+        "name": "Paul Copplestone",
+        "role": "Founder / Executive",
+        "linkedin_url": "https://www.linkedin.com/in/paulcopplestone"
+      },
+      {
+        "name": "Pete Ryan",
+        "role": "Founder / Executive",
+        "linkedin_url": "https://www.linkedin.com/in/peteryanprofile"
+      }
+    ],
+    "data_confidence_score": 0.9,
+    "sources_crawled": [
+      "https://supabase.com"
+    ],
+    "cost_metrics": {
+      "prompt_tokens": 3155,
+      "completion_tokens": 145,
+      "total_tokens": 3300,
+      "estimated_cost_usd": 0.00028
+    },
+    "external_search_used": true,
+    "error": null
+  },
+  {
+    "domain": "vapi.ai",
+    "company_name": "Vapi",
+    "company_overview": "Vapi offers an API-native voice AI platform that enables builders and enterprises to construct, deploy, and iterate on custom voice agents. The platform handles real-time orchestration, scalable infrastructure, and enterprise integrations to automate customer support, lead qualification, and appointment scheduling.",
+    "target_audience_icp": "Developers, software engineers, and enterprise leaders looking to build and scale real-time voice AI agents.",
+    "contact_points": [
+      "support@vapi.ai",
+      "+18774398274",
+      "https://vapi.ai/sales",
+      "https://docs.vapi.ai/support"
+    ],
+    "key_leadership": [
+      {
+        "name": "Jordan D.",
+        "role": "Founder / Executive",
+        "linkedin_url": "https://www.linkedin.com/in/jordandearsley"
+      },
+      {
+        "name": "Nikhil Gupta",
+        "role": "Founder / Executive",
+        "linkedin_url": "https://www.linkedin.com/in/nikhilro"
+      }
+    ],
+    "data_confidence_score": 0.95,
+    "sources_crawled": [
+      "https://vapi.ai"
+    ],
+    "cost_metrics": {
+      "prompt_tokens": 1469,
+      "completion_tokens": 147,
+      "total_tokens": 1616,
+      "estimated_cost_usd": 0.000154
+    },
+    "external_search_used": true,
+    "error": null
+  }
+]
