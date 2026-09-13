@@ -1,0 +1,115 @@
+[
+  {
+    "domain": "postman.com",
+    "company_name": "Postman",
+    "company_overview": "Postman is an enterprise API development and collaboration platform that simplifies every step of the API lifecycle. It enables teams to design, mock, test, document, and monitor APIs within a unified workspace.",
+    "target_audience_icp": "API developers, engineering managers, software architects, and QA engineers working on API ecosystems.",
+    "contact_points": [
+      "help@postman.com",
+      "info-jp@postman.com",
+      "info@postman.com"
+    ],
+    "key_leadership": [
+      {
+        "name": "Abhinav Asthana",
+        "role": "CEO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/abhinavasthana"
+      },
+      {
+        "name": "Ankit Sobti",
+        "role": "CTO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/ankit-sobti"
+      },
+      {
+        "name": "Abhijit Kane",
+        "role": "Co-Founder",
+        "linkedin_url": "https://in.linkedin.com/in/abhijitkane"
+      }
+    ],
+    "data_confidence_score": 0.93,
+    "sources_crawled": [
+      "https://postman.com",
+      "https://postman.com/company/about-postman/",
+      "https://www.postman.com/company/contact-sales/",
+      "https://postman.com/company/contact-us/",
+      "https://postman.com/company/press-media/"
+    ],
+    "cost_metrics": {
+      "prompt_tokens": 7353,
+      "completion_tokens": 220,
+      "total_tokens": 7573,
+      "estimated_cost_usd": 0.0
+    },
+    "external_search_used": false,
+    "error": null
+  },
+  {
+    "domain": "supabase.com",
+    "company_name": "Supabase",
+    "company_overview": "Supabase is an open-source Firebase alternative providing a complete backend-as-a-service with dedicated PostgreSQL databases. It equips developers with instant RESTful APIs, real-time subscriptions, user authentication, and storage.",
+    "target_audience_icp": "Full-stack developers, mobile app engineers, startup founders, and enterprise teams seeking an open-source SQL backend.",
+    "contact_points": [
+      "contact@supabase.com",
+      "support@supabase.com"
+    ],
+    "key_leadership": [
+      {
+        "name": "Paul Copplestone",
+        "role": "CEO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/paulcopplestone"
+      },
+      {
+        "name": "Ant Wilson",
+        "role": "CTO & Co-Founder",
+        "linkedin_url": "https://uk.linkedin.com/in/ant-wilson-46179937"
+      }
+    ],
+    "data_confidence_score": 0.77,
+    "sources_crawled": [
+      "https://supabase.com",
+      "https://supabase.com/solutions/innovation-teams",
+      "https://supabase.com/company",
+      "https://supabase.com/pricing",
+      "https://supabase.com/contact/sales"
+    ],
+    "cost_metrics": {
+      "prompt_tokens": 11233,
+      "completion_tokens": 220,
+      "total_tokens": 11453,
+      "estimated_cost_usd": 0.0
+    },
+    "external_search_used": true,
+    "error": null
+  },
+  {
+    "domain": "vapi.ai",
+    "company_name": "Vapi",
+    "company_overview": "Vapi is a specialized developer platform for building, testing, and deploying ultra-low latency voice AI agents. It integrates automated speech recognition, LLM reasoning, and natural voice synthesis for real-time customer conversations.",
+    "target_audience_icp": "Developers, AI engineers, and enterprise customer service operations looking to automate conversational voice interactions.",
+    "contact_points": [
+      "contact@vapi.ai",
+      "support@vapi.ai"
+    ],
+    "key_leadership": [
+      {
+        "name": "Jordan Dworkin",
+        "role": "CEO & Co-Founder",
+        "linkedin_url": "https://www.linkedin.com/in/jordandearsley"
+      }
+    ],
+    "data_confidence_score": 0.77,
+    "sources_crawled": [
+      "https://vapi.ai",
+      "https://vapi.ai/pricing",
+      "https://vapi.ai/sales"
+    ],
+    "cost_metrics": {
+      "prompt_tokens": 2653,
+      "completion_tokens": 220,
+      "total_tokens": 2873,
+      "estimated_cost_usd": 0.0
+    },
+    "external_search_used": true,
+    "error": null
+  }
+]
